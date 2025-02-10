@@ -1,0 +1,365 @@
+header{
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   margin-right: 150px;
+   
+}
+.book{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+   
+}
+.nav{
+    display: flex;
+    gap: 50px; 
+}
+.buttons{
+    display: flex;
+    gap: 100px;
+   
+}
+.login{
+    color: #FA7436;
+    
+}
+
+.signup{  
+    height: 50px;
+    width: 160px;
+    background-color: #FA7436;
+    color: #FFFFFF;
+    border-radius: 5px;
+    border-color: #FA7436;
+}
+.Text{
+   font-size: 64px;
+   
+   
+}
+.span{
+    color: #FA7436;
+}
+.section-1{
+    display: flex;
+    justify-content: space-around;
+   align-items: center;
+    
+}
+.paraText{
+    font-size: 20px;
+    width: 497px;
+    height: 120px;
+}
+.paradiscover{
+    
+    font-size: 18px;
+    border: 1px solid #FA7436;
+    width: 120px;
+    padding: 20px;
+    text-align: center;
+    color: #FA7436;
+}
+.section-2{
+    display: flex;
+    justify-content: center;
+}
+.todo{
+    color: #FA7436;
+}
+.Text-2heading{
+    font-size: 48px;
+}
+.Text-2para{
+    text-align: center;
+}
+.section-3{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+.cards{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-right: 200px;
+
+}
+.card-1{
+    border: 1px solid black;
+    padding: 10px;
+}
+.card-2{
+    border: 1px solid black;
+    padding: 10px;
+}
+.card-3{
+    border: 1px solid black;
+    padding: 10px;
+}
+.Text-3heading{
+    font-size: 48px;
+    text-align: center;
+}
+.Text-3para{
+    text-align: center;
+}
+.offers{
+    color: #FA7436;
+}
+.madrid{
+    display: flex;
+    gap: 140px;
+}
+.spaintext{
+    color:#666666;
+}
+.numicon{
+     border: 1px solid #FA7436;
+     padding: 2px;
+     background-color: #FFE7DB;
+     color: #FA7436;
+}
+.Madrid{
+    display: flex;
+    align-items: center;
+    gap: 150px;
+}
+.content1{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+.dollar1{
+    border: 1px solid #FA7436;
+    background-color:#FFE7DB;
+    color: #FA7436;
+    padding: 5px;
+}
+.firenze{
+    display: flex;
+    align-items: center;
+    gap: 150px;
+}
+.content2{
+    display: flex;
+    align-items: center;
+    gap: 60px;
+}
+.dollar2{
+    border: 1px solid #FA7436;
+    background-color:#FFE7DB;
+    color: #FA7436;
+    padding: 5px;
+}
+.paris{
+    display: flex;
+    align-items: center;
+    gap: 150px;
+}
+.content3{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+.dollar3{
+    border: 1px solid #FA7436;
+    background-color:#FFE7DB;
+    color: #FA7436;
+    padding: 5px;
+}
+.london{
+    display: flex;
+    align-items: center;
+    gap: 150px;
+}
+.content4{
+    display: flex;
+    align-items: center;
+    gap: 60px;
+}
+.dollar4{
+    border: 1px solid #FA7436;
+    background-color:#FFE7DB;
+    color: #FA7436;
+    padding: 5px;
+}
+.spain{
+    color: #666666;
+}
+.italy{
+    color: #666666;
+}
+.france{
+    color: #666666;
+}
+.uk{
+    color: #666666;
+}
+.card-4{
+    border: 1px solid black;
+    padding: 10px;
+}
+.section-6{
+    margin-left: 100px;
+}
+.slider-btn{
+    display: flex;
+    justify-content: center;
+}
+.plan{
+    color: #FA7436;
+}
+.card-1{
+    padding:5px;
+}
+.rome{
+    display: flex;
+    gap: 300px;
+}
+.section-7{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+.content-sec-7{
+    font-size: 48px;
+}
+.dollarrome-1{
+    color: #FA7436;
+}
+.romerates{
+   margin-left: 300px;
+}
+.uk-2{
+    display: flex;
+    gap: 200px;
+}
+.dollarrome-2{
+    color: #FA7436;
+}
+.ukrates{
+    margin-left: 300px;
+ }
+ .osaka{
+    display: flex;
+    gap: 200px;
+}
+.dollarrome-3{
+    color: #FA7436;
+}
+.osakarates{
+    margin-left: 300px;
+ }
+.slider2{
+   margin-left: 1350px;
+}
+.about{
+    color: #FA7436;
+}
+.sec-9text{
+    font-size: 48px;
+}
+.section-9{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+.client1{
+    display: flex;
+    gap: 100px;
+   margin-top: 200px;
+}
+.section-10{
+    display: flex;
+}
+.latestblog{
+    color: #FA7436;
+}
+.section-10{
+    display: flex;
+    justify-content: center;
+}
+.content-sec-10{
+    font-size: 48px;
+
+}
+.carddate{
+    color: #999999;
+}
+.sec-11-slider{
+    display: flex;
+    justify-content: center;
+}
+.Text-client1{
+    color:#999999
+}
+.sec-12-input{
+   
+    height: 60px;
+    width: 500px;
+    border-radius: 10px;
+    
+}
+.sec-12flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 300px;
+}
+.sec-12-input{
+    background-image: url(./asset/Subscribe\ btn.png);
+    background-position: right;
+    background-repeat: no-repeat;
+   
+}
+::placeholder{
+    text-align: center;
+    background-image: url(./asset/mail\ box.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    margin-right: 300px;
+    font-size: 20px;
+}
+.text-sec12{
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 48px;
+}
+.treeimg-sec12{
+    display: flex;
+    justify-content:flex-end;
+    align-items: flex-end;
+    color: #FFFFFF;
+}
+.section-12{
+    border: 1px solid black;
+    background-color: #FA7436;
+}
+.lineimg{
+   height: 300px;
+}
+
+.footer-1{
+   display: flex;
+   justify-content: center;
+   gap: 50px;
+}
+.footer-groups{
+    display: flex;
+    gap: 100px;
+}
+.footer-end{
+    display: flex;
+    justify-content: end;
+}
+.border{
+    width: 1800px;
+}
+.terms{
+    display: flex;
+    justify-content: flex-end;
+}
+
